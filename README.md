@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![exp8empd](https://github.com/Rajeshanbu/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118924713/f7384477-3669-445f-b61f-2e20a21bc66c)
+![exp8empd](https://github.com/Rajeshanbu/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118924713/0b2f36bc-37b5-48f7-9423-002077e14e85)
+
 
 ### Name:RAJESH.A
 ### Register Number:212222100042
